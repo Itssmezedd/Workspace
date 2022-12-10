@@ -1,0 +1,23 @@
+  /* Tags Selectors */
+
+  body {
+      background-color: #f0e8d8;
+  }
+
+  hr {
+      border-style: none;
+      border-top-style: dotted;
+      border-color: #bbbab7;
+      border-width: 5px;
+      width: 10%;
+  }
+
+  h3 {
+      color: #47443a;
+  }
+
+  td {
+      color: #5a5544;
+  }
+
+  /* Class Selectors */

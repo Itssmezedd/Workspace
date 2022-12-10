@@ -1,0 +1,183 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "console": "externalTerminal",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Account_Run",
+            "request": "launch",
+            "mainClass": "Account_Balance.Account_Run",
+            "projectName": "Java_85720fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch StudentReport",
+            "request": "launch",
+            "mainClass": "Activity1.StudentReport",
+            "projectName": "Java_85720fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch StudentReport(1)",
+            "request": "launch",
+            "mainClass": "Activity2.StudentReport",
+            "projectName": "Java_85720fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch RunBloodData",
+            "request": "launch",
+            "mainClass": "BloodType_Data.RunBloodData",
+            "projectName": "Java_85720fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch RunEmployee",
+            "request": "launch",
+            "mainClass": "EmployeeSalary.RunEmployee",
+            "projectName": "Java_85720fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch GradeBook",
+            "request": "launch",
+            "mainClass": "GradeBook.GradeBook",
+            "projectName": "Java_85720fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab_Activity1",
+            "request": "launch",
+            "mainClass": "Lab_Activity1",
+            "projectName": "Java_85720fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab_Activity2",
+            "request": "launch",
+            "mainClass": "Lab_Activity2",
+            "projectName": "Java_85720fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab_Activity3",
+            "request": "launch",
+            "mainClass": "Lab_Activity3",
+            "projectName": "Java_85720fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab_Activity4",
+            "request": "launch",
+            "mainClass": "Lab_Activity4",
+            "projectName": "Java_85720fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab_Activity5",
+            "request": "launch",
+            "mainClass": "Lab_Activity5",
+            "projectName": "Java_85720fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java_85720fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainProgram",
+            "request": "launch",
+            "mainClass": "MainPackage.MainProgram",
+            "projectName": "Java_85720fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(1)",
+            "request": "launch",
+            "mainClass": "Matrix.Main",
+            "projectName": "Java_85720fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(2)",
+            "request": "launch",
+            "mainClass": "Midterm_Grade.Main",
+            "projectName": "Java_85720fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(3)",
+            "request": "launch",
+            "mainClass": "OddEvenwithoutModulo.Main",
+            "projectName": "Java_85720fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program",
+            "request": "launch",
+            "mainClass": "ProgramExercise.Program",
+            "projectName": "Java_85720fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(4)",
+            "request": "launch",
+            "mainClass": "RecursionSumofDigit.Main",
+            "projectName": "Java_85720fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(5)",
+            "request": "launch",
+            "mainClass": "ReverseNum.Main",
+            "projectName": "Java_85720fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClassList",
+            "request": "launch",
+            "mainClass": "SE_Lab_Assignment_1.ClassList",
+            "projectName": "Java_85720fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch HopeMain",
+            "request": "launch",
+            "mainClass": "SE_Lab_Assignment_2_3.HopeMain.HopeMain",
+            "projectName": "Java_85720fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch COMReport",
+            "request": "launch",
+            "mainClass": "SE_Lab_Assignment_5.Main.COMReport",
+            "projectName": "Java_85720fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(6)",
+            "request": "launch",
+            "mainClass": "SieveOfEratosthenes.Main",
+            "projectName": "Java_85720fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClassList(1)",
+            "request": "launch",
+            "mainClass": "SoftwareEngineer.ClassList",
+            "projectName": "Java_85720fd"
+        }
+    ]
+}
